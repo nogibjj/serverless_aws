@@ -26,7 +26,8 @@ The project aims to build a serverless web application that is able to reuturn a
 
 
 # Deployed using S3 static web page
-`http://hostappwithemma.s3-website-us-east-1.amazonaws.com/ `
+
+http://hostappwithemma.s3-website-us-east-1.amazonaws.com/ 
 
 # Example Output
 The input is coming from ABC news article (https://abcnews.go.com/US/shooting-reported-denver-high-school-2-adults-hospitalized/story?id=98045110)
