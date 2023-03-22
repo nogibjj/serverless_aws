@@ -93,6 +93,7 @@ def lambda_handler(event, context):
     
     #Storing Comprehend output   
     s3_client.put_object(Body = str(sentScore), Bucket = bucket2, Key = current_time + ".txt")
+
     
     return {
         'statusCode': 200,
