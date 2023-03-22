@@ -18,7 +18,7 @@ The project aims to build a serverless web application that is able to reuturn a
 <img width="886" alt="connection_lambda_APIGateway" src="https://user-images.githubusercontent.com/112578755/226983297-35607e06-355f-4247-b2fd-d61e048a95ef.png">
 
 3. Test if 2 buckets in S3 are created successfully from the lambda function. 
-4. Get the invoke URL in AWS GW and add in the getResp() in lambda function.
+4. Get the invoke URL in AWS GW and add in the getResp() in `script.js`.
 5. In lambda function, create the connection to AWS Comprehend.
 6. Upload the three web page files to a new S3 Bucket (in total, we should have 3 buckets)
 <img width="605" alt="S3_bucket" src="https://user-images.githubusercontent.com/112578755/226985241-3f070293-6e7b-4de1-aa81-454006d1b7f5.png">
