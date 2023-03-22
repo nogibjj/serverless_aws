@@ -18,9 +18,13 @@ The project aims to build a serverless web application that is able to reuturn a
 `http://hostappwithemma.s3-website-us-east-1.amazonaws.com/ `
 
 # Example Output
+The input is coming from ABC news article (https://abcnews.go.com/US/shooting-reported-denver-high-school-2-adults-hospitalized/story?id=98045110)
+
+<img width="819" alt="example_output_serverless" src="https://user-images.githubusercontent.com/112578755/226982718-c58918d6-1a35-44a6-a791-2d3aeb4d32f1.png">
 
 
-#reference
+# Reference
+
 https://towardsdatascience.com/building-full-stack-serverless-nlp-applications-with-javascript-aws-c63ca365cd15
 https://www.youtube.com/watch?v=n5XFPLo4Bbw
 
