@@ -5,6 +5,8 @@
 
 ## Project Workflow diagram
 
+![project](https://user-images.githubusercontent.com/112578755/226981316-7e066027-0468-46d1-b2a0-2ec5d80ea915.jpg)
+
 # Project purpose:
 
 The project aims to build a serverless web application that is able to reuturn a sentiment report without a server, and perform Continuous Integration through Github Actions and configure Build Server to deploy changes on build (Continuous Delivery) using AWS Lambda, API Gateway and S3 bucket.
